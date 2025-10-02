@@ -40291,6 +40291,21 @@
       },
       "uuid": "931a9e5d-ed81-5377-be47-1e04b64c454b",
       "value": "miga"
+    },
+    {
+      "description": "The Crimson Collective is a cybercrime group that claimed to have compromised Red Hat's private GitHub repositories in September 2025.",
+      "meta": {
+        "cfr-target-category": [
+          "Technology"
+        ],
+        "refs": [
+          "https://cybersecuritynews.com/red-hat-data-breach/",
+          "https://www.techzine.eu/news/security/135120/red-hat-hit-by-github-breach-570gb-stolen-including-client-info/",
+          "https://securityaffairs.com/182866/data-breach/cybercrime-group-claims-to-have-breached-red-hat-s-private-github-repositories.html"
+        ]
+      },
+      "uuid": "8ab83a2c-e5c6-4963-808f-83395f9610ea",
+      "value": "Crimson Collective"
     }
   ],
   "version": 161
