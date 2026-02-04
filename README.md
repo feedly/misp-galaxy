@@ -83,14 +83,6 @@ Category: *mobile* - source: *https://arxiv.org/pdf/2005.05110.pdf* - total: *47
 
 [[HTML](https://www.misp-galaxy.org/bhadra-framework)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/bhadra-framework.json)]
 
-## Busy is the New Stupid framework
-
-[Busy is the New Stupid framework](https://www.misp-galaxy.org/bitns) - Busy is the New Stupid framework - A tactical framework, examining how busyness compromises cognitive function, strategic thinking, and effectiveness. Created by Ross Young.
-
-Category: *user-tie* - source: *https://www.cisotradecraft.com/bitns* - total: *40* elements
-
-[[HTML](https://www.misp-galaxy.org/bitns)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/bitns.json)]
-
 ## Botnet
 
 [Botnet](https://www.misp-galaxy.org/botnet) - botnet galaxy
@@ -263,7 +255,7 @@ Category: *dwva* - source: *https://interpol-innovation-centre.github.io/DW-VA-T
 
 [Malpedia](https://www.misp-galaxy.org/malpedia) - Malware galaxy cluster based on Malpedia.
 
-Category: *tool* - source: *Malpedia* - total: *3596* elements
+Category: *tool* - source: *Malpedia* - total: *3260* elements
 
 [[HTML](https://www.misp-galaxy.org/malpedia)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/malpedia.json)]
 
@@ -282,14 +274,6 @@ Category: *actor* - source: *MISP Project* - total: *79* elements
 Category: *misinformation-pattern* - source: *https://github.com/misinfosecproject/amitt_framework* - total: *61* elements
 
 [[HTML](https://www.misp-galaxy.org/misinfosec-amitt-misinformation-pattern)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/misinfosec-amitt-misinformation-pattern.json)]
-
-## Analytics
-
-[Analytics](https://www.misp-galaxy.org/mitre-analytic) - ATT&CK Analytics
-
-Category: *attack-pattern* - source: *https://attack.mitre.org/analytics/* - total: *1950* elements
-
-[[HTML](https://www.misp-galaxy.org/mitre-analytic)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/mitre-analytic.json)]
 
 ## MITRE ATLAS Attack Pattern
 
@@ -311,7 +295,7 @@ Category: *course-of-action* - source: *https://github.com/mitre-atlas/atlas-nav
 
 [Attack Pattern](https://www.misp-galaxy.org/mitre-attack-pattern) - ATT&CK tactic
 
-Category: *attack-pattern* - source: *https://github.com/mitre/cti* - total: *1242* elements
+Category: *attack-pattern* - source: *https://github.com/mitre/cti* - total: *1185* elements
 
 [[HTML](https://www.misp-galaxy.org/mitre-attack-pattern)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/mitre-attack-pattern.json)]
 
@@ -346,14 +330,6 @@ Category: *data-component* - source: *https://github.com/mitre/cti* - total: *11
 Category: *data-source* - source: *https://github.com/mitre/cti* - total: *40* elements
 
 [[HTML](https://www.misp-galaxy.org/mitre-data-source)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/mitre-data-source.json)]
-
-## Detection Strategies
-
-[Detection Strategies](https://www.misp-galaxy.org/mitre-detection-strategy) - ATT&CK Detection Strategies
-
-Category: *attack-pattern* - source: *https://attack.mitre.org/detectionstrategies/* - total: *815* elements
-
-[[HTML](https://www.misp-galaxy.org/mitre-detection-strategy)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/mitre-detection-strategy.json)]
 
 ## MITRE Engage Framework
 
@@ -415,7 +391,7 @@ Category: *attack-pattern* - source: *https://collaborate.mitre.org/attackics/in
 
 [Intrusion Set](https://www.misp-galaxy.org/mitre-intrusion-set) - Name of ATT&CK Group
 
-Category: *actor* - source: *https://github.com/mitre/cti* - total: *189* elements
+Category: *actor* - source: *https://github.com/mitre/cti* - total: *183* elements
 
 [[HTML](https://www.misp-galaxy.org/mitre-intrusion-set)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/mitre-intrusion-set.json)]
 
@@ -423,7 +399,7 @@ Category: *actor* - source: *https://github.com/mitre/cti* - total: *189* elemen
 
 [Malware](https://www.misp-galaxy.org/mitre-malware) - Name of ATT&CK software
 
-Category: *tool* - source: *https://github.com/mitre/cti* - total: *815* elements
+Category: *tool* - source: *https://github.com/mitre/cti* - total: *782* elements
 
 [[HTML](https://www.misp-galaxy.org/mitre-malware)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/mitre-malware.json)]
 
@@ -535,7 +511,7 @@ Category: *measure* - source: *MISP Project* - total: *20* elements
 
 [Producer](https://www.misp-galaxy.org/producer) - List of threat intelligence producer from security vendors to CERTs including any producer of intelligence at large.
 
-Category: *actor* - source: *MISP Project* - total: *126* elements
+Category: *actor* - source: *MISP Project* - total: *124* elements
 
 [[HTML](https://www.misp-galaxy.org/producer)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/producer.json)]
 
@@ -543,7 +519,7 @@ Category: *actor* - source: *MISP Project* - total: *126* elements
 
 [Ransomware](https://www.misp-galaxy.org/ransomware) - Ransomware galaxy based on different sources and maintained by the MISP Project.
 
-Category: *tool* - source: *Various* - total: *2077* elements
+Category: *tool* - source: *Various* - total: *2062* elements
 
 [[HTML](https://www.misp-galaxy.org/ransomware)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/ransomware.json)]
 
@@ -571,62 +547,6 @@ Category: *rsit* - source: *https://github.com/enisaeu/Reference-Security-Incide
 
 [[HTML](https://www.misp-galaxy.org/rsit)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/rsit.json)]
 
-## SCOR - About
-
-[SCOR - About](https://www.misp-galaxy.org/scor-about) - Overview entries to explain the SCOR namespace inside MISP.
-
-Category: *meta* - source: *Project documentation* - total: *4* elements
-
-[[HTML](https://www.misp-galaxy.org/scor-about)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/scor-about.json)]
-
-## SCOR SPACE-SHIELD Mitigations
-
-[SCOR SPACE-SHIELD Mitigations](https://www.misp-galaxy.org/scor-space-shield-mitigations) - ESA SPACE-SHIELD Mitigations adapted to the SCOR namespace for operational and technical countermeasures.
-
-Category: *mitigation* - source: *ESA SPACE-SHIELD Matrix* - total: *38* elements
-
-[[HTML](https://www.misp-galaxy.org/scor-space-shield-mitigations)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/scor-space-shield-mitigations.json)]
-
-## SCOR SPACE-SHIELD Tactics
-
-[SCOR SPACE-SHIELD Tactics](https://www.misp-galaxy.org/scor-space-shield-tactics) - ESA SPACE-SHIELD Tactics adapted to SCOR namespace for matrix rendering in MISP.
-
-Category: *tactic* - source: *ESA SPACE-SHIELD Matrix* - total: *14* elements
-
-[[HTML](https://www.misp-galaxy.org/scor-space-shield-tactics)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/scor-space-shield-tactics.json)]
-
-## SCOR SPACE-SHIELD Techniques
-
-[SCOR SPACE-SHIELD Techniques](https://www.misp-galaxy.org/scor-space-shield-techniques) - ESA SPACE-SHIELD Techniques adapted to SCOR namespace. Each technique is mapped to one or more tactics, aligning with the ESA matrix structure.
-
-Category: *technique* - source: *ESA SPACE-SHIELD Matrix* - total: *27* elements
-
-[[HTML](https://www.misp-galaxy.org/scor-space-shield-techniques)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/scor-space-shield-techniques.json)]
-
-## SCOR SPARTA Mitigations
-
-[SCOR SPARTA Mitigations](https://www.misp-galaxy.org/scor-sparta-mitigations) - SPARTA Mitigations cluster derived from The Aerospace Corporation’s SPARTA framework. Provides structured defensive measures against tactics and techniques used in space operations.
-
-Category: *SCOR* - source: *https://sparta.aerospace.org/* - total: *12* elements
-
-[[HTML](https://www.misp-galaxy.org/scor-sparta-mitigations)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/scor-sparta-mitigations.json)]
-
-## SCOR SPARTA Tactics
-
-[SCOR SPARTA Tactics](https://www.misp-galaxy.org/scor-sparta-tactics) - SPARTA Tactics cluster derived from Aerospace Corporation’s SPARTA framework. These represent the adversary's tactical objectives in space attack campaigns.
-
-Category: *SCOR* - source: *https://sparta.aerospace.org/* - total: *14* elements
-
-[[HTML](https://www.misp-galaxy.org/scor-sparta-tactics)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/scor-sparta-tactics.json)]
-
-## SCOR SPARTA Techniques
-
-[SCOR SPARTA Techniques](https://www.misp-galaxy.org/scor-sparta-techniques) - SPARTA Techniques cluster derived from Aerospace Corporation’s SPARTA STIX feed. Provides structured space threat technique taxonomy mapped to SPARTA tactics.
-
-Category: *SCOR* - source: *https://sparta.aerospace.org/* - total: *11* elements
-
-[[HTML](https://www.misp-galaxy.org/scor-sparta-techniques)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/scor-sparta-techniques.json)]
-
 ## Sector
 
 [Sector](https://www.misp-galaxy.org/sector) - Activity sectors
@@ -639,7 +559,7 @@ Category: *sector* - source: *CERT-EU* - total: *118* elements
 
 [Sigma-Rules](https://www.misp-galaxy.org/sigma-rules) - MISP galaxy cluster based on Sigma Rules.
 
-Category: *rules* - source: *https://github.com/jstnk9/MISP/tree/main/misp-galaxy/sigma* - total: *3083* elements
+Category: *rules* - source: *https://github.com/jstnk9/MISP/tree/main/misp-galaxy/sigma* - total: *3047* elements
 
 [[HTML](https://www.misp-galaxy.org/sigma-rules)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/sigma-rules.json)]
 
@@ -703,7 +623,7 @@ Category: *tea-matrix* - source: ** - total: *7* elements
 
 [Threat Actor](https://www.misp-galaxy.org/threat-actor) - Known or estimated adversary groups targeting organizations and employees. Adversary groups are regularly confused with their initial operation or campaign. threat-actor-classification meta can be used to clarify the understanding of the threat-actor if also considered as operation, campaign or activity group.
 
-Category: *actor* - source: *MISP Project* - total: *919* elements
+Category: *actor* - source: *MISP Project* - total: *863* elements
 
 [[HTML](https://www.misp-galaxy.org/threat-actor)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/threat-actor.json)]
 
@@ -767,7 +687,7 @@ Category: *tmss* - source: *https://github.com/microsoft/Threat-matrix-for-stora
 
 [Tool](https://www.misp-galaxy.org/tool) - threat-actor-tools is an enumeration of tools used by adversaries. The list includes malware but also common software regularly used by the adversaries.
 
-Category: *tool* - source: *MISP Project* - total: *606* elements
+Category: *tool* - source: *MISP Project* - total: *605* elements
 
 [[HTML](https://www.misp-galaxy.org/tool)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/tool.json)]
 
@@ -775,7 +695,7 @@ Category: *tool* - source: *MISP Project* - total: *606* elements
 
 [UAVs/UCAVs](https://www.misp-galaxy.org/uavs) - OSINT Database of Unmanned Combat Aerial Vehicle
 
-Category: *Military equipment* - source: *OSINT* - total: *654* elements
+Category: *Military equipment* - source: *OSINT* - total: *459* elements
 
 [[HTML](https://www.misp-galaxy.org/uavs)] - [[JSON](https://github.com/MISP/misp-galaxy/blob/main/clusters/uavs.json)]
 
